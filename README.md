@@ -17,7 +17,7 @@ Multiple academic studies and industry reports consistently show that **visual-r
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="proof.png" width="95%" alt="Visual Proof Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="2.png" width="95%" alt="Visual Proof Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -39,4 +39,5 @@ Multiple academic studies and industry reports consistently show that **visual-r
 ### 💡 Summary
 
 Visual content is not just decoration — it's a scientifically validated enhancement to **decision-making, comprehension, trust, and engagement**.  
-BillianceAI leverages this foundation by turning admission calls into **visual storytelling journeys**, making information clearer and decisions faster.
+BillianceAI -  making information clearer and decisions faster.
+> ✨ Turning calls into **visual storytelling journeys**
