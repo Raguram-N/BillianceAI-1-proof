@@ -4,7 +4,7 @@ Multiple academic studies and industry reports consistently show that **visual-r
 
 | **Study / Source** | **Key Finding** | **Notes** | **Reference** |
 |---------------------|------------------|-----------|----------------|
-| Purdue University (2006) – *“Pictures-as-worth-a-thousand-words”* | Visuals + simple text significantly improved comprehension & recall over text-only instructions. | Strong impact in complex decision-making scenarios. | https://doi.org/10.1111/j.1083-6101.2006.tb00319.x |
+| Purdue University (2006) | Visuals + simple text significantly improved comprehension & recall over text-only instructions. | Strong impact in complex decision-making scenarios. | Pictures-as-worth-a-thousand-words |
 | University of Minnesota – Multimedia Learning Research | Participants exposed to **text + visuals** retained more information than those receiving text alone. | Supports dual-coding & cognitive load theory. | University of Minnesota Learning & Education Studies |
 | Marketing Industry Case Studies (various) | Visual campaigns commonly see **20–60% higher engagement or conversions** compared to text-only campaigns. | Range varies by sector & medium. | HubSpot, Content Marketing Institute, Wyzowl Reports |
 | MIT Cognitive Science Research | Humans process visuals **60,000× faster** than text; visuals reduce cognitive load in decision-making. | Helps users understand options more clearly and faster. | MIT Visual Neuroscience & Cognition Lab |
